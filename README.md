@@ -47,7 +47,7 @@ from Fifa_Data
 Group by ID
 Having cnt > 1
 
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 /* showing the Scorer name and how many goals they have scored 
 then store that data into another table called scoring */
 
